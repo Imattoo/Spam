@@ -1,0 +1,18 @@
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#222222</color>
+
+    <color name="gray">#777777</color>
+    <color name="gray_deep">#555555</color>
+    
+    <color name="title_color">#FFF5F6</color>
+    <color name="title_color_deep">#ffabaf</color>
+    <color name="bar_color_deep">#ff565e</color>
+    <color name="bar_color">#FF787E</color>
+
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    
+</resources>
